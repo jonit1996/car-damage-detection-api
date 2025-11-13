@@ -19,7 +19,10 @@ The typical process for AI-based, image-driven car damage detection involves sev
 5. Reporting and Integration: A detailed report is generated, often including estimated repair costs, which can be integrated into 
    existing claims or management systems via APIs. 
 
----
+
+## Samples
+
+![Project Sample](images/sample.jpg)
 
 ## 🛠️ Setup Instructions
 
@@ -29,4 +32,3 @@ The typical process for AI-based, image-driven car damage detection involves sev
 git clone https://github.com/<your-username>/car_damage_api.git
 cd car_damage_api
 
-![Project Sample](images/sample.jpg)
